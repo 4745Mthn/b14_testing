@@ -1,4 +1,4 @@
-package Zeynep;
+package zeynep;
 
 public class Cakmak {
 
