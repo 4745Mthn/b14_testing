@@ -11,7 +11,12 @@ public class SdetClients {
         Sdet sdet5 = new Sdet("Kbreab", 34, 'M', "Java", true);
         Sdet sdet6 = new Sdet("Ziyoda", 34, 'F', "Kotlin", true);
 
-
+        sdet1.work();
+        sdet2.work();
+        sdet3.work();
+        sdet4.work();
+        sdet5.work();
+        sdet6.work();
 
 
     }
