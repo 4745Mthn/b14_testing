@@ -1,9 +1,8 @@
-package b14;
+package zeynep;
 
-public class Zeynep {
+public class Cakmak {
+
     public static void main(String[] args) {
 
     }
-
-
 }
