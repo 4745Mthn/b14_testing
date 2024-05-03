@@ -10,7 +10,7 @@
 
 ## Metehan Ateş
 
-![Profile Picture](https://www.facebook.com/share/5spabyTbrWjvpAF6/?mibextid=WC7FNe](https://scontent-iad3-2.xx.fbcdn.net/v/t1.6435-9/183387459_10159500259383570_8471004232614598206_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YoFyGPj-5P4Q7kNvgFNuia3&_nc_ht=scontent-iad3-2.xx&oh=00_AfCNlHdvj_al3DWC7T7mlorVeWs9ObrR3zjmtDVPPejJ5A&oe=665CAC65)
+![Profile Picture] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fotor.com%2Fblog%2Fprofile-picture-ideas%2F&psig=AOvVaw35pSIFY7lRKQ_tzxf4Bfry&ust=1714851775865000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLisweue8oUDFQAAAAAdAAAAABAE)
 
 - **Bio:** Short description or bio
 - **Role:** Future Team Leader
