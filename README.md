@@ -11,9 +11,9 @@
 ## Metehan Ateş
 
 [![Profile Picture]](https://imgv3.fotor.com/images/blog-richtext-image/10-profile-picture-ideas-to-make-you-stand-out.jpg)
-
-- **Bio:** Short description or bio
+- **Bio:** -> I am currently learning with help from docs.github.com & Cydeo
 - **Role:** Future Team Leader
+- 
 - **GitHub Profile:** [Profile Link](https://github.com/4745Mthn)
 
 ## Zeynep Çakmak
