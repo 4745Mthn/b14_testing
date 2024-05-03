@@ -32,9 +32,11 @@
 
 ## Amine Ersu
 
-![Profile Picture](profile-picture-url)
+![Profile Picture](https://avatars.githubusercontent.com/u/160289484?v=4)
 
-- **Bio:** Short description or bio- **GitHub Profile:** [Profile Link](link-to-github-profile)
+- **Bio:** Be there for others, but never leave yourself behind.
+- **Role:** Avid Learner of Java and Github
+- **GitHub Profile:** [Profile Link](https://github.com/ersuamine)
 
 ## Kbreab Desta
 
