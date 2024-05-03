@@ -14,7 +14,7 @@
 
 - **Bio:** Short description or bio
 - **Role:** Future Team Leader
-- **GitHub Profile:** [Profile Link](link-to-github-profile)
+- **GitHub Profile:** [Profile Link](github.com/4745Mthn)
 
 ## Zeynep Çakmak
 
