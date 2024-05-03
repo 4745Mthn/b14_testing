@@ -10,7 +10,7 @@
 
 ## Metehan Ateş
 
-![Profile Picture] (https://imgv3.fotor.com/images/blog-richtext-image/10-profile-picture-ideas-to-make-you-stand-out.jpg))
+[![Profile Picture]](https://imgv3.fotor.com/images/blog-richtext-image/10-profile-picture-ideas-to-make-you-stand-out.jpg)
 
 - **Bio:** Short description or bio
 - **Role:** Future Team Leader
