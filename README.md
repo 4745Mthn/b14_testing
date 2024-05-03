@@ -10,7 +10,7 @@
 
 ## Metehan Ateş
 
-![Profile Picture](https://www.facebook.com/share/5spabyTbrWjvpAF6/?mibextid=WC7FNe)
+![Profile Picture](<h1 align="center"> <img src=" https://www.facebook.com/share/5spabyTbrWjvpAF6/?mibextid=WC7FNe" /></h1>)
 
 - **Bio:** Short description or bio
 - **Role:** Future Team Leader
