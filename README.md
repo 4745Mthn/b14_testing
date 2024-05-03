@@ -2,64 +2,57 @@
 
 ## Dilovar Turaev
 
-![Profile Picture](profile-picture-url)
+![Profile Picture](profile-picture-url) 
 
-- **Name:** Dilovar Turaev
 - **Bio:** Short description or bio
+- **Role:** Current Team Leader
 - **GitHub Profile:** [Profile Link](link-to-github-profile)
 
 ## Metehan Ateş
 
 ![Profile Picture](profile-picture-url)
 
-- **Name:** Metehan Ateş
 - **Bio:** Short description or bio
+- **Role:** Future Team Leader
 - **GitHub Profile:** [Profile Link](link-to-github-profile)
 
-## Member 3
+## Zeynep Çakmak
 
 ![Profile Picture](profile-picture-url)
 
-- **Name:** Zeynep Çakmak
 - **Bio:** Short description or bio
 - **GitHub Profile:** [Profile Link](link-to-github-profile)
 
-## Member 4
+## Ziyoda Usmanalieva
 
 ![Profile Picture](profile-picture-url)
 
-- **Name:** Ziyoda Usmanalieva
 - **Bio:** Short description or bio
 - **GitHub Profile:** [Profile Link](link-to-github-profile)
 
-## Member 5
+## Amine Ersu
 
 ![Profile Picture](profile-picture-url)
 
-- **Name:** Amine Ersu
+- **Bio:** Short description or bio- **GitHub Profile:** [Profile Link](link-to-github-profile)
+
+## Kbreab Desta
+
+![Profile Picture](profile-picture-url)
+
 - **Bio:** Short description or bio
 - **GitHub Profile:** [Profile Link](link-to-github-profile)
 
-## Member 6
+## Fatih Gurevin
 
 ![Profile Picture](profile-picture-url)
 
-- **Name:** Khreab Desta
 - **Bio:** Short description or bio
 - **GitHub Profile:** [Profile Link](link-to-github-profile)
 
-## Member 7
+## Josue Perez
 
 ![Profile Picture](profile-picture-url)
 
-- **Name:** Fatih Gurevin
-- **Bio:** Short description or bio
-- **GitHub Profile:** [Profile Link](link-to-github-profile)
-
-- ## Member 8
-
-![Profile Picture](profile-picture-url)
-
-- **Name:** Josue Perez
 - **Bio:** Short description or bio
 - **GitHub Profile:** [Profile Link](link-to-github-profile)
