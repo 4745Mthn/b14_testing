@@ -10,11 +10,11 @@
 
 ## Metehan Ateş
 
-![Profile Picture](profile-picture-url)
+![Profile Picture](https://www.facebook.com/share/5spabyTbrWjvpAF6/?mibextid=WC7FNe)
 
 - **Bio:** Short description or bio
 - **Role:** Future Team Leader
-- **GitHub Profile:** [Profile Link](github.com/4745Mthn)
+- **GitHub Profile:** [Profile Link](https://github.com/4745Mthn)
 
 ## Zeynep Çakmak
 
