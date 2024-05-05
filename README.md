@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://us.zonerama.com/photos/1006678787_2484x471.jpg" />
+<img src="https://us.zonerama.com/photos/1006679669_2484x471.jpg" />
 </h1>
 # Our Team
 
