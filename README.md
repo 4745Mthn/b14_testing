@@ -56,7 +56,7 @@
  <img src="https://avatars.githubusercontent.com/u/35998426?v=4" />
 </h1>
 
-- **Bio:** Short description or bio
+- **Bio:** Short description or bio 
 - **GitHub Profile:** [Profile Link](https://github.com/fatihgrv)
 
 ## Josue Perez
