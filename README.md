@@ -52,10 +52,12 @@
 
 ## Fatih Gurevin
 
-![Profile Picture](profile-picture-url)
+<h1 align="left">
+ <img src="https://avatars.githubusercontent.com/u/35998426?v=4" />
+</h1>
 
-- **Bio:** Short description or bio
-- **GitHub Profile:** [Profile Link](link-to-github-profile)
+- **Bio:** Short description or bio 
+- **GitHub Profile:** [Profile Link](https://github.com/fatihgrv)
 
 ## Josue Perez
 
