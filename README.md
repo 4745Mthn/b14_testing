@@ -57,7 +57,7 @@
 </h1>
 
 - **Bio:** Short description or bio
-- **GitHub Profile:** [Profile Link](https://github.com/fatihgrv) 
+- **GitHub Profile:** [Profile Link](https://github.com/fatihgrv)
 
 ## Josue Perez
 
