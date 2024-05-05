@@ -1,3 +1,6 @@
+<h1 align="center">
+<img src="https://us.zonerama.com/photos/1006678787_2484x471.jpg" />
+</h1>
 # Our Team
 
 ## Dilovar Turaev
@@ -10,7 +13,9 @@
 
 ## Metehan Ateş
 
-[![Profile Picture]](https://imgv3.fotor.com/images/blog-richtext-image/10-profile-picture-ideas-to-make-you-stand-out.jpg)
+<h1 align="left">
+ <img src="https://avatars.githubusercontent.com/u/160879582?v=4](https://us.zonerama.com/photos/1006679526_238x281.jpg" />
+</h1>
 - **Bio:** -> I am currently learning with help from docs.github.com & Cydeo
 - **Role:** Future Team Leader
 - 
