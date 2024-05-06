@@ -15,6 +15,7 @@ public static void main(String[] args) {
 
     }
     System.out.println(primes);
+    System.out.println("anyone check this?");
 
 }
 }
