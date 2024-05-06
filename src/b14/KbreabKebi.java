@@ -6,5 +6,6 @@ public class KbreabKebi {
 
         System.out.println("My name is Kbreab Desta");
         System.out.println("I am an SDET programm student");
+        System.out.println("this is test message");
     }
 }
