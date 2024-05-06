@@ -1,6 +1,7 @@
 <h1 align="center">
 <img src="https://us.zonerama.com/photos/1006679669_2484x471.jpg" />
 </h1>
+
 # Our Team
 
 ## Dilovar Turaev
@@ -60,6 +61,13 @@
 - **GitHub Profile:** [Profile Link](https://github.com/fatihgrv)
 
 ## Josue Perez
+
+![Profile Picture](profile-picture-url)
+
+- **Bio:** Short description or bio
+- **GitHub Profile:** [Profile Link](link-to-github-profile)
+
+## Othman Edziza
 
 ![Profile Picture](profile-picture-url)
 
