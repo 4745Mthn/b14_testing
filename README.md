@@ -18,6 +18,7 @@
  <img src="https://avatars.githubusercontent.com/u/160879582?v=4](https://us.zonerama.com/photos/1006679526_238x281.jpg" />
 </h1>
 - **Bio:** -> I am currently learning with help from docs.github.com & Cydeo
+
 - **Role:** Future QA 
 - **GitHub Profile:** [Profile Link](https://github.com/4745Mthn)
 
