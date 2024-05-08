@@ -1,6 +1,24 @@
 package Metehan;
 
 public class Task1 {
+
+    public static void main(String[] args) {
+        System.out.println(factorial(5));
+    }
+
+    public static int factorial (int n) {
+
+        int result = 1;
+
+        while (n > 1) {
+            result *= n--;
+        }
+        return result;
+
+    }
+
+}
+
   //    CREATE  a method that will accept an int number and return factorial of that number.
 //    parameter:int
 //    return:int
@@ -10,4 +28,4 @@ public class Task1 {
 //    ex
 //    input: 5
 //    output:120
-}
+
