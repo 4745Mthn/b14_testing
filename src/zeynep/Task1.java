@@ -1,7 +1,7 @@
 package zeynep;
 
 public class Task1 {
-//    create a method that will check if the given number is a happy or unhappy
+  //    create a method that will check if the given number is a happy or unhappy
 //
 //
 //        A happy number is when sum of its digits aquared eventually result in 1.
@@ -13,5 +13,4 @@ public class Task1 {
 //     13->1^2+3^2=1+9=10
 //     10->1^2+0^2=1+0=1
 //
-
 }
