@@ -18,7 +18,7 @@ public class ScanIntDoubleString {
 
         int i = 4;
         double d = 4.0;
-        String s = "GoldenFive ";
+        String s = "GreatTeam ";
         Scanner scan = new Scanner(System.in);
 
         int i2;
