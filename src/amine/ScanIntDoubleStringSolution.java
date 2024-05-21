@@ -1,9 +1,8 @@
-package great_team;
+package amine;
 
 import java.util.Scanner;
 
-
-public class ScanIntDoubleString {
+public class ScanIntDoubleStringSolution {
     /* Declare second integer, double, and String variables. */
     /* Read and save an integer, double, and String to your variables.*/
 
@@ -16,9 +15,9 @@ public class ScanIntDoubleString {
 
     public static void main(String[] args) {
 
-        int i = 4;
-        double d = 4.0;
-        String s = "GreatTeam ";
+        int i = 5;
+        double d = 5.0;
+        String s = "GoldenFive ";
         Scanner scan = new Scanner(System.in);
 
         int i2;

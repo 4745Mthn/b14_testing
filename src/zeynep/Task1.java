@@ -1,6 +1,33 @@
 package zeynep;
 
 public class Task1 {
+
+    public static void main(String[] args) {
+        System.out.println(isHappy(42));
+    }
+
+    public static String isHappy(int n){
+
+        while(n != 1 && n != 4){
+
+            int sum = 0;
+
+            while(n > 0){
+                int eachDigit = n % 10;
+                sum += eachDigit * eachDigit;
+                n /= 10;
+            }
+
+            n = sum;
+        }
+
+        return n == 1 ? "Happy" : "Unhappy";
+    }
+
+
+
+
+
   //    create a method that will check if the given number is a happy or unhappy
 //
 //
