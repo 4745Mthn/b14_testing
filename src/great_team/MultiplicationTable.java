@@ -37,7 +37,7 @@ public class MultiplicationTable {
     }
 
 
-        }
+        } // Metehan changed i dont know why it didnt ask pull request. let me fix 
 class MultiplicationTable2 {
 
     public static void main(String[] args) {
