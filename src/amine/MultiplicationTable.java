@@ -1,8 +1,8 @@
-package great_team;
-
+package amine;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+
 /*
 Given an integer,n, print its first 10 multiples.
 Each multiple n x i (where 1<= i <=10) should be printed on a new line in the form: n x i = result.
@@ -33,26 +33,13 @@ public class MultiplicationTable {
         System.out.println("Enter a number: ");
 
         int n = Integer.parseInt(bufferedReader.readLine().trim());
-
         bufferedReader.close();
+
         for (int i = 1; i <= 10; i++) {
             System.out.println(n + " x " + i + " = " + (n * i));
         }
+
     }
-
-
-        } // Metehan changed i dont know why it didnt ask pull request. let me fix 
-class MultiplicationTable2 {
-
-    public static void main(String[] args) {
-
-        int num = 5;
-        for(int i = 1; i <= 10; ++i)
-        {
-            System.out.printf("%d * %d = %d \n", num, i, num * i);
-        }
-    }
-
 }
 
 
