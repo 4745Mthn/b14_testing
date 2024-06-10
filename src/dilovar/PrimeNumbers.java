@@ -7,23 +7,20 @@ public class PrimeNumbers {
 //  Complete the task "Prime numbers between 1 and 100" and push it to the 4745Mthn/b14_testing please.
 //  if you don't want to have any problem, before start project make sure your b14_testing project is up-to-date.
 
-public static void main(String[] args) {
-    ArrayList<Integer> primes = new ArrayList<>();
-    for (int i = 1; i < 101; i++) {
-        int count=0;
-        for (int j = 1; j <101 ; j++) {
-            if (i%j==0){
-                count++;
+    public static void main(String[] args) {
+        ArrayList<Integer> primes = new ArrayList<>();
+        for (int i = 1; i < 101; i++) {
+            int count = 0;
+            for (int j = 1; j < 101; j++) {
+                if (i % j == 0) {
+                    count++;
+                }
+            }
+            if (count == 2) {
+                primes.add(i);
             }
         }
-        if (count==2){
-            primes.add(i);
-        }
-    }
-    System.out.println(primes);
-    System.out.println("anyone check this?");
-    System.out.println("yes we did");
-    System.out.println("encouraging you to include more comments between your code");
+        System.out.println(primes);
 
-}
+    }
 }

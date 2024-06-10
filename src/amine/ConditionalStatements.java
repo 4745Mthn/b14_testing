@@ -1,4 +1,4 @@
-package great_team;
+package amine;
 
 import java.io.BufferedReader;
 import java.io.IOException;
